@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    username:
+    password:
+      url:
+  logging:
+    level: info
